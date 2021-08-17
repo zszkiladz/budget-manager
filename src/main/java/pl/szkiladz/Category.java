@@ -1,4 +1,4 @@
-package pl.plauszta;
+package pl.szkiladz;
 
 public enum Category {
     FOOD,

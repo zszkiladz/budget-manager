@@ -1,4 +1,4 @@
-package pl.plauszta;
+package pl.szkiladz;
 
 public class Purchase implements Comparable<Purchase> {
     private final String name;
